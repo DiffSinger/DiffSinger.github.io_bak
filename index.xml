@@ -12,7 +12,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://diffsinger.github.io/diffsinger/</guid>
-      <description>DiffSinger Singing Voice Synthesis Link
+      <description>DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism Singing Voice Synthesis Link
 Text to Speech Synthesis Link</description>
     </item>
     
@@ -23,9 +23,10 @@ Text to Speech Synthesis Link</description>
       
       <guid>https://diffsinger.github.io/svs/</guid>
       <description>Singing Audio Samples For all of the singing audio samples, we uniformly use Parallel WaveGAN (PWG) as vocoder, which has been adjusted to fit singing voice synthesis.
-Comparison with Other Models nǐ gòu bú gòu wǒ zhè yàng sǎ tuō
-你 够 不 够 我 这 样 洒 脱
-GTGT (PWG)FFT-SingerGAN-SingerDiffSingersuǒ yǒu mèng xiǎng dōu kāi huā</description>
+Comparison with Other Models ràng mèng héng jiǔ bǐ tiān cháng
+让 梦 恒 久 比 天 长
+GTGT (PWG)FFT-SingerGAN-SingerDiffSinger
+wǒ zhōng yú áo xiáng</description>
     </item>
     
     <item>
