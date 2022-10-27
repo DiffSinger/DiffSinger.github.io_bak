@@ -6,6 +6,6 @@ Zhejiang University
 
 AAAI 2022
 
-Singing Voice Synthesis Demos (DiffSinger)[DiffSinger.github.io]
+Singing Voice Synthesis Demos (DiffSinger)[DiffSinger.github.io/singer_page]
 
-Text to Speech Synthesis Demos (DiffSpeech)[DiffSinger.github.io]
+Text to Speech Synthesis Demos (DiffSpeech)[DiffSinger.github.io/speech_page]
