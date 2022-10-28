@@ -1,44 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>diffsinger</title>
-    <link>https://diffsinger.github.io/</link>
-    <description>Recent content on diffsinger</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://diffsinger.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>https://diffsinger.github.io/diffsinger/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://diffsinger.github.io/diffsinger/</guid>
-      <description>DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism Singing Voice Synthesis Link
-Text to Speech Synthesis Link</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://diffsinger.github.io/svs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://diffsinger.github.io/svs/</guid>
-      <description>Singing Audio Samples For all of the singing audio samples, we uniformly use Parallel WaveGAN (PWG) as vocoder, which has been adjusted to fit singing voice synthesis.
-Comparison with Other Models ràng mèng héng jiǔ bǐ tiān cháng
-让 梦 恒 久 比 天 长
-GTGT (PWG)FFT-SingerGAN-SingerDiffSinger
-wǒ zhōng yú áo xiáng</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://diffsinger.github.io/tts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://diffsinger.github.io/tts/</guid>
-      <description>Extensional Experiments on Text-to-Speech Synthesis For all of the speech audio samples, we uniformly use HiFi-GAN as vocoder.
-Comparison with Other Models This type was introduced into England by Wynkyn de Worde, Caxtons successor
-GTGT (Mel)Tacotron 2Glow-TTSFastSpeech 2DiffSingerMost of Caxtons own types are of an earlier character, though they also much resemble Flemish or Cologne letter.</description>
-    </item>
-    
-  </channel>
-</rss>
